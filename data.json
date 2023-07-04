@@ -1,6 +1,16 @@
 {
   "fecha": "2023-05-05 20:22:57",
   "cdcAsociado": "",
+  "documentoAsociado": {
+    "tipoDocumentoAsoc": "2",
+    "cdcAsociado": "22",
+    "establecimientoAsoc":"011",
+    "puntoAsoc":"005",
+    "numeroAsoc":"0005761",
+    "tipoDocuemntoIm":"1",
+    "fechaDocIm":"2023-07-02",
+    "timbradoAsoc":"16183179"
+  },
   "punto": "004",
   "establecimiento": "001",
   "numero": "0000601",
