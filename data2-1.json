@@ -1,80 +1,72 @@
 {
-  "fecha": "2023-05-05 20:22:57",
+  "fecha": "2023-07-26 17:25:26",
   "cdcAsociado": "",
   "documentoAsociado": {
     "tipoDocumentoAsoc": "2",
     "cdcAsociado": "22",
-    "establecimientoAsoc":"011",
-    "puntoAsoc":"005",
-    "numeroAsoc":"0005761",
-    "tipoDocuemntoIm":"1",
-    "fechaDocIm":"2023-07-02",
-    "timbradoAsoc":"16183179"
+    "establecimientoAsoc": "011",
+    "puntoAsoc": "005",
+    "numeroAsoc": "0005761",
+    "tipoDocuemntoIm": "1",
+    "fechaDocIm": "2023-07-02",
+    "timbradoAsoc": "16183179"
   },
-  "punto": "004",
+  "punto": "001",
   "establecimiento": "001",
-  "numero": "0000601",
+  "numero": "0000500",
   "descripcion": "2",
   "moneda": "PYG",
   "tipoDocumento": 1,
   "tipoEmision": 1,
   "tipoTransaccion": 1,
-  "receiptid": "35cb8d22-ae97-4cdb-a425-c7b57853817e",
+  "receiptid": "cuota1",
+  "condicionPago": 2,
   "cliente": {
     "ruc": "",
-    "nombre": "",
-    "cpais": ""
+    "nombre": ""
   },
-  "codigoSeguridadAleatorio": "117355827",
+  "codigoSeguridadAleatorio": "161000750",
   "items": [
     {
-      "descripcion": "Producto 1",
-      "codigo": "101793",
+      "descripcion": "PANTALON JOGGER UNISEX 10-16 MOLETON COMB-137982",
+      "codigo": "137982",
       "tipoIva": "I.V.A. 10%",
       "unidadMedida": 77.0,
       "ivaTasa": 10,
       "ivaAfecta": 1,
       "cantidad": 1,
-      "precioUnitario": 8300.0,
-      "precioTotal": 8300.0,
-      "baseGravItem": 7545.454545454545,
-      "liqIvaItem": 754.5454545454545
-    },
-    {
-      "descripcion": "Producto 2",
-      "codigo": "4232",
-      "tipoIva": "I.V.A. 10%",
-      "unidadMedida": 77.0,
-      "ivaTasa": 10,
-      "ivaAfecta": 1,
-      "cantidad": 1,
-      "precioUnitario": 2500.0,
-      "precioTotal": 2500.0,
-      "baseGravItem": 2272.7272727272725,
-      "liqIvaItem": 227.27272727272725
-    },
-    {
-      "descripcion": "Producto 3",
-      "codigo": "4112",
-      "tipoIva": "I.V.A. 10%",
-      "unidadMedida": 77.0,
-      "ivaTasa": 10,
-      "ivaAfecta": 1,
-      "cantidad": 1,
-      "precioUnitario": 200.0,
-      "precioTotal": 200.0,
-      "baseGravItem": 181.8181818181818,
-      "liqIvaItem": 18.181818181818183
+      "precioUnitario": 15000.0,
+      "precioTotal": 15000.0,
+      "baseGravItem": 13636.363637,
+      "liqIvaItem": 1363.636363
     }
   ],
   "pagos": [
-    {
-      "name": "cash",
-      "tipoPago": "1",
-      "monto": 11000.0
-    }
+    {}
   ],
-  "totalPago": 11000,
+  "credito": {
+    "condicionCredito": 2,
+    "descripcion": "Cuota",
+    "cantidadCuota": 3,
+    "cuotas": [
+      {
+        "numero": 1,
+        "monto": 5000,
+        "fechaVencimiento": "2023-07-20"
+      },
+      {
+        "numero": 2,
+        "monto": 5000,
+        "fechaVencimiento": "2023-08-20"
+      },
+      {
+        "numero": 3,
+        "monto": 5000,
+        "fechaVencimiento": "2023-09-20"
+      }
+    ]
+  },
+  "totalPago": 15000,
   "totalRedondeo": 0,
   "codigo": 1222,
   "pais": "PYG"
