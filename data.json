@@ -20,6 +20,7 @@
   "tipoEmision": 1,
   "tipoTransaccion": 1,
   "receiptid": "35cb8d22-ae97-4cdb-a425-c7b57853817e",
+   "condicionPago": 1,
   "cliente": {
     "ruc": "",
     "nombre": "",
