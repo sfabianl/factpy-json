@@ -2,6 +2,7 @@
   "fecha": "2023-07-26 17:25:26",
   "cdcAsociado": "",
   "documentoAsociado": {
+    "remision":true,
     "tipoDocumentoAsoc": "2",
     "cdcAsociado": "22",
     "establecimientoAsoc": "011",
