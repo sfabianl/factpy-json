@@ -1,0 +1,137 @@
+{
+  "fecha": "2023-09-29 09:22:57",
+  "cdcAsociado": "",
+  "documentoAsociado": {
+    "remision":false,
+    "tipoDocumentoAsoc": "1",
+    "cdcAsociado": "",
+    "establecimientoAsoc": "001",
+    "puntoAsoc": "001",
+    "numeroAsoc": "0000002",
+    "tipoDocuemntoIm": "1",
+    "fechaDocIm": "2023-07-02",
+    "timbradoAsoc": "11"
+  },
+  "punto": "001",
+  "establecimiento": "001",
+  "numero": "0003003",
+  "descripcion": "2",
+  "moneda": "PYG",
+  "tipoDocumento": 1,
+  "tipoEmision": 1,
+  "tipoTransaccion": 1,
+  "receiptid": "rem3003",
+  "condicionPago": 1,
+  "cliente": {
+    "ruc": "444441",
+    "nombre": "SERGIO LOPEZ",
+    "cpais": "Paraguay",
+    "direccion":"mi casa",
+    "numCasa":55,
+    "departamento":12,
+    "distrito":154,
+    "ciudad":5044
+  },
+  "remision": {
+    "motivo": 1,
+    "responsableEmi": 1,
+    "kmEstimado": 5,
+    "factura":0,
+    "fechaFactura":"2023-09-29"
+    
+  },
+  "codigoSeguridadAleatorio": "117353003",
+  "items": [
+    {
+      "descripcion": "Producto 1",
+      "codigo": "101793",
+      "tipoIva": "I.V.A. 10%",
+      "unidadMedida": 77.0,
+      "ivaTasa": 10,
+      "ivaAfecta": 1,
+      "cantidad": 1,
+      "precioUnitario": 8300.0,
+      "precioTotal": 8300.0,
+      "baseGravItem": 7545.454545454545,
+      "liqIvaItem": 754.5454545454545
+    },
+    {
+      "descripcion": "Producto 2",
+      "codigo": "4232",
+      "tipoIva": "I.V.A. 10%",
+      "unidadMedida": 77.0,
+      "ivaTasa": 10,
+      "ivaAfecta": 1,
+      "cantidad": 1,
+      "precioUnitario": 2500.0,
+      "precioTotal": 2500.0,
+      "baseGravItem": 2272.7272727272725,
+      "liqIvaItem": 227.27272727272725
+    },
+    {
+      "descripcion": "Producto 3",
+      "codigo": "4112",
+      "tipoIva": "I.V.A. 10%",
+      "unidadMedida": 77.0,
+      "ivaTasa": 10,
+      "ivaAfecta": 1,
+      "cantidad": 1,
+      "precioUnitario": 200.0,
+      "precioTotal": 200.0,
+      "baseGravItem": 181.8181818181818,
+      "liqIvaItem": 18.181818181818183
+    }
+  ],
+  "pagos": [
+    {
+      "name": "cash",
+      "tipoPago": "1",
+      "monto": 11000.0
+    }
+  ],
+  "transporte": [
+    {
+      "tipoTransporte": 1,
+      "modalidad": 1,
+      "tipoResponsable": 1,
+            "iniFechaEstimadaTrans": "2023-09-23",
+      "finFechaEstimadaTrans": "2023-09-24",
+      "salida": {
+        "direccion": "mi casa",
+        "numCasa": "0",
+        "departamento": 12,
+        "distrito": 154,
+        "ciudad": 5044,
+        "telefono": "087754545"
+      },
+      "entrega": {
+        "direccion": "mi casa",
+        "numCasa": "0",
+        "departamento": 199,
+        "distrito": 154,
+        "ciudad": 5044,
+        "telefono": "087754545"
+      },
+      "vehiculo": {
+        "tipo": 1,
+        "marca": "Toyota",
+        "documentoTipo": 2,
+        "numeroIden": "AAA1131"
+      },
+      "transportista": {
+        "tipo":2,
+        "nombreTr":"SERGIO LOPEZ",
+        "tipoDocumentoTr":1,
+        "numeroTr":"444441",
+        "direccionTr":"Sin direccion",
+        "nombreCh":"SERGIO LOPEZ",
+        "numeroCh":"444441",
+        "direccionCh":"Sin direccion"
+      }
+    }
+  ],
+  "totalPago": 11000,
+  "totalRedondeo": 0,
+  "codigo": 1222,
+  "pais": "PYG"
+}
