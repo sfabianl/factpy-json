@@ -22,9 +22,12 @@
   "tipoTransaccion": 1,
   "receiptid": "cuota1",
   "condicionPago": 2,
+  "moneda": "PYG",
+  "cambio": 0,
   "cliente": {
-    "ruc": "",
-    "nombre": ""
+    "ruc": "4873651",
+    "nombre": "sergio lopez",
+    "diplomatico":false
   },
   "codigoSeguridadAleatorio": "161000750",
   "items": [
