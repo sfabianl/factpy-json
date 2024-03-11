@@ -1,6 +1,7 @@
 # API - Facturación Electrónica Paraguay
 Para los que quieran probar cómo funciona la api de forma gratuita.
 web: www.factpy.com
+# Facturación Electrónica - Generación y Firma de XML, SIFEN (Paraguay).
 
 # factpy-json
 Ejemplo de json para FACTPY V1
