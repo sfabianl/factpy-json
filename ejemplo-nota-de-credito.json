@@ -1,0 +1,58 @@
+{
+  "fecha": "2024-06-29 17:25:26",
+  "cdcAsociado": "",
+  "documentoAsociado": {
+    "remision":false,
+    "tipoDocumentoAsoc": "1",
+    "cdcAsociado": "01800389166001001000000122024062911111009013",
+    "establecimientoAsoc": "011",
+    "puntoAsoc": "005",
+    "numeroAsoc": "0005761",
+    "tipoDocuemntoIm": "1",
+    "fechaDocIm": "2023-07-02",
+    "timbradoAsoc": "16183179"
+  },
+  "punto": "001",
+  "establecimiento": "001",
+  "numero": "0000001",
+  "descripcion": "2",
+  "tipoDocumento": 5,
+  "tipoEmision": 1,
+  "tipoTransaccion": 1,
+  "receiptid": "c524",
+  "condicionPago": 1,
+  "moneda": "PYG",
+  "cambio": 0,
+  "cliente": {
+    "ruc": "4873651",
+    "nombre": "sergio lopez",
+    "diplomatico":false
+  },
+  "codigoSeguridadAleatorio": "991100901",
+  "items": [
+    {
+      "descripcion": "test product",
+      "codigo": "0011",
+      "tipoIva": "I.V.A. 10%",
+      "unidadMedida": 77.0,
+      "ivaTasa": 10,
+      "ivaAfecta": 1,
+      "cantidad": -1,
+      "precioUnitario": 1000.0,
+      "precioTotal": -1000.0,
+      "baseGravItem": -909,
+      "liqIvaItem": -91
+    }
+  ],
+  "pagos": [
+    {
+      "name": "cash",
+      "tipoPago": "99",
+      "monto": -1000.0
+    }
+  ],
+  "totalPago": -1000,
+  "totalRedondeo": 0,
+  "codigo": 1222,
+  "pais": "PYG"
+}
