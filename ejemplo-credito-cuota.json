@@ -1,8 +1,8 @@
 {
-  "fecha": "2023-07-26 17:25:26",
+  "fecha": "2024-09-04 17:25:26",
   "cdcAsociado": "",
   "documentoAsociado": {
-    "remision":true,
+    "remision":false,
     "tipoDocumentoAsoc": "2",
     "cdcAsociado": "22",
     "establecimientoAsoc": "011",
@@ -14,12 +14,12 @@
   },
   "punto": "001",
   "establecimiento": "001",
-  "numero": "0000500",
+  "numero": "0000063",
   "descripcion": "2",
   "tipoDocumento": 1,
   "tipoEmision": 1,
   "tipoTransaccion": 1,
-  "receiptid": "cuota1",
+  "receiptid": "20240904-2",
   "condicionPago": 2,
   "moneda": "PYG",
   "cambio": 0,
@@ -28,7 +28,7 @@
     "nombre": "sergio lopez",
     "diplomatico":false
   },
-  "codigoSeguridadAleatorio": "161000750",
+  "codigoSeguridadAleatorio": "681085112",
   "items": [
     {
       "descripcion": "PANTALON JOGGER UNISEX 10-16 MOLETON COMB-137982",
@@ -55,17 +55,17 @@
       {
         "numero": 1,
         "monto": 5000,
-        "fechaVencimiento": "2023-07-20"
+        "fechaVencimiento": "2024-09-20"
       },
       {
         "numero": 2,
         "monto": 5000,
-        "fechaVencimiento": "2023-08-20"
+        "fechaVencimiento": "2024-10-20"
       },
       {
         "numero": 3,
         "monto": 5000,
-        "fechaVencimiento": "2023-09-20"
+        "fechaVencimiento": "2024-11-20"
       }
     ]
   },
