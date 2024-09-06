@@ -1,0 +1,60 @@
+{
+  "fecha": "2024-09-04 17:29:26",
+  "cdcAsociado": "",
+  "documentoAsociado": {
+    "remision":false,
+    "tipoDocumentoAsoc": "2",
+    "cdcAsociado": "22",
+    "establecimientoAsoc": "011",
+    "puntoAsoc": "005",
+    "numeroAsoc": "0005761",
+    "tipoDocuemntoIm": "1",
+    "fechaDocIm": "2023-07-02",
+    "timbradoAsoc": "16183179"
+  },
+  "punto": "001",
+  "establecimiento": "001",
+  "numero": "0000064",
+  "descripcion": "2",
+  "tipoDocumento": 1,
+  "tipoEmision": 1,
+  "tipoTransaccion": 1,
+  "receiptid": "20240904-3",
+  "condicionPago": 2,
+  "moneda": "PYG",
+  "cambio": 0,
+  "cliente": {
+    "ruc": "4873651",
+    "nombre": "sergio lopez",
+    "diplomatico":false
+  },
+  "codigoSeguridadAleatorio": "681085113",
+  "items": [
+    {
+      "descripcion": "PANTALON JOGGER UNISEX 10-16 MOLETON COMB-137982",
+      "codigo": "137982",
+      "tipoIva": "I.V.A. 10%",
+      "unidadMedida": 77.0,
+      "ivaTasa": 10,
+      "ivaAfecta": 1,
+      "cantidad": 1,
+      "precioUnitario": 15000.0,
+      "precioTotal": 15000.0,
+      "baseGravItem": 13636.363637,
+      "liqIvaItem": 1363.636363
+    }
+  ],
+  "pagos": [
+    {}
+  ],
+  "credito": {
+    "condicionCredito": 1,
+    "descripcion": "30 dias"
+    
+    
+  },
+  "totalPago": 15000,
+  "totalRedondeo": 0,
+  "codigo": 1222,
+  "pais": "PYG"
+}
