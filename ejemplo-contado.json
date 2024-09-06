@@ -1,0 +1,60 @@
+{
+  "fecha": "2024-07-17 17:25:26",
+  "cdcAsociado": "",
+  "documentoAsociado": {
+    "remision":false,
+    "tipoDocumentoAsoc": "1",
+    "cdcAsociado": "22",
+    "establecimientoAsoc": "011",
+    "puntoAsoc": "005",
+    "numeroAsoc": "0005761",
+    "tipoDocuemntoIm": "1",
+    "fechaDocIm": "2023-07-02",
+    "timbradoAsoc": "16183101"
+  },
+  "punto": "001",
+  "establecimiento": "001",
+  "numero": "0000060",
+  "descripcion": "2",
+  "tipoDocumento": 1,
+  "tipoEmision": 1,
+  "tipoTransaccion": 1,
+  "receiptid": "test60",
+  "condicionPago": 1,
+  "moneda": "PYG",
+  "cambio": 0,
+  "cliente": {
+    "ruc": "4873651-1",
+    "nombre": "SERGIO LOPEZ",
+    "direccion":"AVENIDA GEORG SCHAEFFLER",
+    "numCasa":430,
+    "diplomatico":false
+  },
+  "codigoSeguridadAleatorio": "819250260",
+  "items": [
+    {
+      "descripcion": "test product",
+      "codigo": "0011",
+      "tipoIva": "I.V.A. 10%",
+      "unidadMedida": 77.0,
+      "ivaTasa": 10,
+      "ivaAfecta": 1,
+      "cantidad": 1,
+      "precioUnitario": 1000.0,
+      "precioTotal": 1000.0,
+      "baseGravItem": 909,
+      "liqIvaItem": 91
+    }
+  ],
+  "pagos": [
+    {
+      "name": "cash",
+      "tipoPago": "1",
+      "monto": 1000.0
+    }
+  ],
+  "totalPago": 1000,
+  "totalRedondeo": 0,
+  "codigo": 1222,
+  "pais": "PYG"
+}
