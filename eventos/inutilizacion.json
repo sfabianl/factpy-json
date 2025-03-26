@@ -1,0 +1,10 @@
+      {
+        "tipoEvento": 1,
+        "timbrado":"16343539",  
+        "tipoDoc":"5",
+        "establecimiento": "010",
+        "punto": "004",
+        "desde": "0000001",
+        "hasta": "0000001",
+        "motivo":"Salto de numeracion"
+        }
