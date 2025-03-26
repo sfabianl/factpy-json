@@ -1,0 +1,5 @@
+      {
+        "tipoEvento": 2,
+        "cdc":"cdc-del-docuemtno-a-cancelar",
+        "motivo":"momtivo-por-el-cual-se-cancela"
+        }
