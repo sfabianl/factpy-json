@@ -1,0 +1,65 @@
+{
+  "pais": "PYG",
+  "fecha": "2025-03-27 15:05:23",
+  "items": [
+    {
+      "codigo": "004",
+      "ivaTasa": 0,
+      "cantidad": 1,
+      "ivaAfecta": 3,
+      "liqIvaItem": 0,
+      "descripcion": "PRODUCTO O SERVICIO",
+      "precioTotal": 100,
+      "baseGravItem": 0,
+      "unidadMedida": 77,
+      "precioUnitario": 100
+    }
+  ],
+  "punto": "001",
+  "cambio": 1,
+  "codigo": "",
+  "moneda": "PYG",
+  "totalGs": 0,
+  "numero": "0000002",
+  "cliente": {
+    "ruc": "MISMO QUE EL EMISOR DE LA AFE",
+    "cpais": "PRY",
+    "nombre": "MISMO QUE EL EMISOR DE LA AFE",
+    "correo": "sergiolov@gmail.com",
+    "diplomatico": false
+  },
+  "autofactura": {
+    "tipoDocumento": 1,
+    "documento": 44444,
+    "nombre": "nombre delvendedor",
+    "direccion": "casa",
+    "numCasa": 12321,
+    "departamentoVendedor": 12,
+    "ciudadVendedor": 6106,
+    "direccionVendedor": "Lugar donde vie o donde ocurre la transaccion",
+    "direccionProv": "donde ocurre la transaacion",
+    "departamentoProv": 11,
+    "distritoProv": 1,
+    "ciudadProv": 1,
+    "constanciaNum": 1212131,
+    "controlNum": 121321
+  },
+  "receiptid": "TESTAF-03",
+  "totalPago": 100,
+  "cdcAsociado": "",
+  "descripcion": "Autofactura de venta",
+  "tipoEmision": 1,
+  "condicionPago": "1",
+  "tipoDocumento": 4,
+  "codigoSeguridadAleatorio": "175134541",
+  "totalRedondeo": 0,
+  "establecimiento": "001",
+  "tipoTransaccion": "1",
+  "pagos": [
+    {
+      "name": "cash",
+      "monto": 100,
+      "tipoPago": "1"
+    }
+  ]
+}
