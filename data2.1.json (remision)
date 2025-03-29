@@ -1,5 +1,5 @@
 {
-  "fecha": "2023-09-29 09:22:57",
+  "fecha": "2025-03-28 09:22:57",
   "cdcAsociado": "",
   "documentoAsociado": {
     "remision":false,
@@ -14,10 +14,10 @@
   },
   "punto": "001",
   "establecimiento": "001",
-  "numero": "0003003",
+  "numero": "0000001",
   "descripcion": "2",
   "moneda": "PYG",
-  "tipoDocumento": 1,
+  "tipoDocumento": 7,
   "tipoEmision": 1,
   "tipoTransaccion": 1,
   "receiptid": "rem3003",
@@ -25,7 +25,7 @@
   "cliente": {
     "ruc": "444441",
     "nombre": "SERGIO LOPEZ",
-    "cpais": "Paraguay",
+    "cpais": "PRY",
     "direccion":"mi casa",
     "numCasa":55,
     "departamento":12,
@@ -37,7 +37,7 @@
     "responsableEmi": 1,
     "kmEstimado": 5,
     "factura":0,
-    "fechaFactura":"2023-09-29"
+    "fechaFactura":"2025-03-30"
     
   },
   "codigoSeguridadAleatorio": "117353003",
@@ -94,8 +94,8 @@
       "tipoTransporte": 1,
       "modalidad": 1,
       "tipoResponsable": 1,
-            "iniFechaEstimadaTrans": "2023-09-23",
-      "finFechaEstimadaTrans": "2023-09-24",
+            "iniFechaEstimadaTrans": "2025-03-29",
+      "finFechaEstimadaTrans": "2025-03-29",
       "salida": {
         "direccion": "mi casa",
         "numCasa": "0",
@@ -107,7 +107,7 @@
       "entrega": {
         "direccion": "mi casa",
         "numCasa": "0",
-        "departamento": 199,
+        "departamento": 12,
         "distrito": 154,
         "ciudad": 5044,
         "telefono": "087754545"
