@@ -3,6 +3,7 @@ Para los que quieran probar cómo funciona la api de forma gratuita.
 web: www.factpy.com
 # Facturación Electrónica - Generación y Firma de XML, DNIT - SIFEN (Paraguay).
 
+Segui la documentación en: https://docs.facpty.com. Integra factpy facil, rapido sin costo de implmentación.
 # factpy-json
 Ejemplo de json para FACTPY V1
 
